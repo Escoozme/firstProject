@@ -1,0 +1,23 @@
+﻿  projectile.cpp
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\projectile.cpp(11,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\projectile.cpp(27,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\projectile.cpp(28,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\projectile.cpp(48,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\projectile.cpp(49,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  enemy.cpp
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(17,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(23,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(24,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(134,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(134,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(189,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(301,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(327,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(328,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(360,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(363,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(419,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\SDLGame\main.cpp(425,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGame.vcxproj -> C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 3 - Adv C++ Topics\JSmetanaCPPProject3_1A\SDLGame\x64\Debug\SDLGame.exe
